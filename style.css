@@ -1,4 +1,14 @@
-h1 {color:blue}
-.container{background-color:green}
-body{background-color:red}
-.navbar{text-align: row
+h1 {
+  color:blue;
+}
+.container {
+  background-color:green;
+}
+body {
+  background-color:red;
+}
+.navbar li {
+  display: inline;
+  background-image: url(https://www.jmcss.org/cms/lib/TN01917090/Centricity/Domain/678/KL018245.jpg);
+  float: right;
+}
