@@ -10,9 +10,9 @@ body {
 .navbar li {
   display: inline;
   background-image: url(https://www.jmcss.org/cms/lib/TN01917090/Centricity/Domain/678/KL018245.jpg);
-  float: right;
+
 }
-.login:active {
+.button:active {
   float: right;
-  
+
 }
