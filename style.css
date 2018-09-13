@@ -27,3 +27,9 @@ body {
 top: 5px;
 
 }
+footer li {
+  display: inline;
+}
+ h4 {
+   text-color: black
+ }
